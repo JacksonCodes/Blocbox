@@ -42,7 +42,7 @@ display: table;
    margin:0 2% 20px;
  }
 
-@@media (min-width: 768px) {
+@media (min-width: 768px) {
    .container {
      width: 750px;
    }
